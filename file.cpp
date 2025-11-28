@@ -2,7 +2,9 @@
 using namespace std;
 
 int main() {
-    cout << "Hello Git!" << endl;
+    for(int i=1 ; i<=10 ; i++) {
+        cout << "Hello, World!" << endl;
+    }
     return 0;
 }
 /*this is the second change*/
